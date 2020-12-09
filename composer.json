@@ -1,5 +1,5 @@
 {
-  "name": "luno/luno-php",
+  "name": "jianjye/luno-php",
   "version": "0.0.4",
   "type": "library",
   "description": "PHP SDK for the Luno API",
